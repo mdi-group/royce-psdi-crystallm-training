@@ -1,4 +1,4 @@
-# royce-psdi-crystallm-training
+# CrystaLLM-pi Workshop - PSDI & Royce Materials Data Summit 
 
 Teaching materials for a hands-on introduction to CrystaLLM and CrystaLLM-pi, with an emphasis on loading a model and using it to generate structures, and then how to fine-tune a pretrained CrystaLLM-pi model and condition on material properties such as density.
 
