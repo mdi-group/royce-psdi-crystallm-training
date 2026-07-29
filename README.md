@@ -14,7 +14,7 @@ In this tutorial, we will cover how the user can load up and make predictions wi
 The current course materials are organised around three main practical themes:
 
 - [Introduction to deep learning](./slides/intro_to_deep_learning.pptx) covering representations and embeddings, leading to sequence-to-sequence modelling for natural language and Crystallographic Information Files (CIFs) and the importance of memory and context.
-- [Attention, transformers and CrystaLLM]() covering the attention mechanism, token embeddings, attention weights, and how attention leads naturally into transformer-style models, leading to CrystaLLM 
+- [Attention, transformers and CrystaLLM](./slides/intro_to_transformer_crystallm.pptx) covering the attention mechanism, token embeddings, attention weights, and how attention leads naturally into transformer-style models, leading to CrystaLLM 
 - [CrystaLLM-pi property conditioning](./slides/CrystaLLM-pi-property-conditioning.pptx) covering how to fine-tune pretrained CrystaLLM models and use attention conditioning mechanisms to steer CrystaLLM-pi (property injection) crystal generation towards desired properties.
 
 ### Hands-on notebooks
