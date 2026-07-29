@@ -47,7 +47,7 @@ Please refer to the following when citing our work!
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 This work has been supported by UKRI funding (EP/Y000552/1 and EP/Y014405/1) and PSDI funding.
